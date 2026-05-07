@@ -90,6 +90,7 @@ Contents
    Future <future>
    Earnings <earnings>
    Calendar <calendar>
+   Widget Library <widget_library>
 
 
 Indices and tables

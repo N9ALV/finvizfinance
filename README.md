@@ -21,6 +21,8 @@ Screener and Group provide dataframes for comparing stocks according to differen
 
 Docs: https://finvizfinance.readthedocs.io/en/latest/
 
+Supabase widget library guide: `docs/operations/FINVIZ_WIDGET_LIBRARY_USER_GUIDE.md`
+
 ### Downloads
 
 To download the latest version from GitHub:
